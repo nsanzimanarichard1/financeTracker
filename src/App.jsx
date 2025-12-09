@@ -3,8 +3,8 @@ import AppLayout from './Layout/AppLayout';
 import Dashboard from './Pages/Dashboard';
 import Transactions from './Pages/Transactions';
 import Categories from './Pages/Categories';
-import Setting from './Pages/setting';
-import Analytics from './Pages/analytics';
+import Setting from './Pages/Setting';
+import Analytics from './Pages/Analytics';
 import AuthPage from './Components/Auth/AuthPage';
 
 
