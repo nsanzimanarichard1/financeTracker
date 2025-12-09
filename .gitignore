@@ -1,0 +1,3 @@
+src/backend/
+# Dependencies
+/node_modules
