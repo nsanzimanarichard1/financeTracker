@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import AppLayout from './Layout/AppLayout';
-import Dashboard from './pages/Dashboard';
+import Dashboard from './Pages/Dashboard';
 import Transactions from './Pages/Transactions';
 import Categories from './Pages/Categories';
 import Setting from './Pages/setting';
